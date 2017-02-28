@@ -8,14 +8,15 @@ using System.Web.Http.Description;
 
 namespace UnitTest.Controllers
 {
-    [RoutePrefix("ProcessOrder")]
+    [RoutePrefix("api")]
     public class ValuesController : ApiController
     {
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
         }
-
+	
+	[Route("ProcessOrder")]
         [ResponseType(typeof(OrderDetail))]
         public HttpResponseMessage Post(OrderDetail obj)
         {
@@ -33,7 +34,7 @@ namespace UnitTest.Controllers
 
 $.ajax({
  type: "POST",
- url: "api/values",
+ url: "api/ProcessOrder",
  data: obj,
  success: function(msg) {
  	alert('Saved');
