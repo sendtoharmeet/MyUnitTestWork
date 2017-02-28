@@ -1,0 +1,11 @@
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\BusinessUnit.dll
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\BusinessUnit.pdb
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\DataModel.dll
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\DBAccess.dll
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\EntityFramework.dll
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\DataModel.pdb
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\DBAccess.pdb
+E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\EntityFramework.xml
+E:\Work_Asp.net\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.csprojResolveAssemblyReference.cache
+E:\Work_Asp.net\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.dll
+E:\Work_Asp.net\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.pdb
