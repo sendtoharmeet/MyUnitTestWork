@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BusinessUnit</RootNamespace>
     <AssemblyName>BusinessUnit</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -45,8 +46,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccess\DataModel.csproj">
-      <Project>{B220255A-0256-4E11-972C-F0C771E8FED5}</Project>
+    <ProjectReference Include="..\DataModel\DataModel.csproj">
+      <Project>{b220255a-0256-4e11-972c-f0c771e8fed5}</Project>
       <Name>DataModel</Name>
     </ProjectReference>
     <ProjectReference Include="..\DBAccess\DBAccess.csproj">

@@ -9,3 +9,17 @@ E:\Work_Asp.net\UnitTest\BusinessUnit\bin\Debug\EntityFramework.xml
 E:\Work_Asp.net\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.csprojResolveAssemblyReference.cache
 E:\Work_Asp.net\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.dll
 E:\Work_Asp.net\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.pdb
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.csproj.AssemblyReference.cache
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.csproj.CoreCompileInputs.cache
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.dll
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.pdb
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\BusinessUnit.dll
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\BusinessUnit.pdb
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\DataModel.dll
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\DBAccess.dll
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\EntityFramework.dll
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\DataModel.pdb
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\DBAccess.pdb
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\DBAccess.dll.config
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\bin\Debug\EntityFramework.xml
+D:\.Net\MyUnitTestWork\UnitTest\BusinessUnit\obj\Debug\BusinessUnit.csproj.CopyComplete
