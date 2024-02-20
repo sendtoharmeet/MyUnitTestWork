@@ -3,3 +3,9 @@ E:\Work_Asp.net\UnitTest\DataAccess\bin\Debug\DataModel.dll
 E:\Work_Asp.net\UnitTest\DataAccess\bin\Debug\DataModel.pdb
 E:\Work_Asp.net\UnitTest\DataAccess\obj\Debug\DataModel.dll
 E:\Work_Asp.net\UnitTest\DataAccess\obj\Debug\DataModel.pdb
+D:\.Net\MyUnitTestWork\UnitTest\DataModel\bin\Debug\DataModel.dll
+D:\.Net\MyUnitTestWork\UnitTest\DataModel\bin\Debug\DataModel.pdb
+D:\.Net\MyUnitTestWork\UnitTest\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+D:\.Net\MyUnitTestWork\UnitTest\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+D:\.Net\MyUnitTestWork\UnitTest\DataModel\obj\Debug\DataModel.dll
+D:\.Net\MyUnitTestWork\UnitTest\DataModel\obj\Debug\DataModel.pdb
